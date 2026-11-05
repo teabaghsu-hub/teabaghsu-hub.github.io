@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>寵物健康管家 - 服務條款 (Terms of Service)</title>
+    <style>
+        :root {
+            --primary-color: #4A90E2;
+            --text-color: #2C3E50;
+            --bg-color: #F9FAFC;
+            --card-bg: #FFFFFF;
+            --border-color: #E2E8F0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.7;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: var(--card-bg);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+        }
+        h1 {
+            color: var(--primary-color);
+            font-size: 28px;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 12px;
+            margin-top: 0;
+        }
+        h2 {
+            font-size: 20px;
+            color: #34495E;
+            margin-top: 28px;
+        }
+        p, li {
+            font-size: 15px;
+            color: #4A5568;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .disclaimer-box {
+            background-color: #FFF5F5;
+            border-left: 4px solid #E53E3E;
+            padding: 16px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+            font-size: 13px;
+            color: #A0AEC0;
+            text-align: center;
+        }
+        .lang-switch {
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        .lang-switch a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>寵物健康管家 - 服務條款 (Terms of Service)</h1>
+        <p><strong>最後更新日期：</strong>2026 年 11 月 5 日</p>
+
+        <p>歡迎使用「寵物健康管家」（以下簡稱「本應用程式」）。在您使用本應用程式前，請仔細閱讀以下服務條款（以下簡稱「本條款」）。當您下載、安裝或使用本應用程式，即表示您已閱讀、理解並同意受本條款約束。</p>
+
+        <h2>1. 服務說明 (Service Overview)</h2>
+        <p>「寵物健康管家」是一款協助飼主管理寵物日常健康紀錄的應用程式，提供包含但不限於飲食紀錄、疫苗與醫療紀錄、體重追蹤、照護提醒以及 AI 智慧諮詢輔助等功能。</p>
+
+        <h2>2. 醫療與諮詢免責聲明 (Pet Medical Disclaimer)</h2>
+        <div class="disclaimer-box">
+            <p><strong>⚠️ 重要提示：本應用程式不提供專業獸醫診斷或醫療服務。</strong></p>
+            <ul>
+                <li>本應用程式內所提供之健康分析、飲食建議、照護提醒或 AI 生成內容，僅供健康管理參考與資訊分享用途，切勿作為專業診斷、治療或醫療決策之依據。</li>
+                <li>若您的寵物出現任何不適、急性症狀或健康異常，請務必第一時間尋求合格執業獸醫師之專業診斷與治療。</li>
+            </ul>
+        </div>
+
+        <h2>3. 使用者責任與帳號安全 (User Responsibilities)</h2>
+        <ul>
+            <li>您同意合法使用本應用程式，不得利用本服務進行任何違法、侵權、濫用或干擾系統運作之行為。</li>
+            <li>您自行輸入於本應用程式內之寵物資訊、飲食與醫療紀錄，應確保其真實性與準確性。</li>
+        </ul>
+
+        <h2>4. 隱私權與個人資料保護 (Privacy & Data Protection)</h2>
+        <p>我們高度重視您的隱私權。關於本應用程式如何收集、處理及保護您的個人與寵物資料，請參閱我們的《隱私權政策》。使用本服務即代表您同意我們依據隱私權政策處理相關資料。</p>
+
+        <h2>5. 智慧財產權 (Intellectual Property)</h2>
+        <p>本應用程式之介面設計、文字內容、圖像標誌、軟體程式碼及相關技術，均受著作權法、商標法及其他智慧財產權法律保護。未經事前書面授權，不得擅自複製、修改、散布或進行逆向工程。</p>
+
+        <h2>6. 免責與責任限制 (Limitation of Liability)</h2>
+        <ul>
+            <li>本應用程式依「現狀」(As-Is) 及「可提供性」(As-Available) 基礎提供，不保證服務完全無中斷、無錯誤或不含惡意程式。</li>
+            <li>在法律允許之最大範圍內，開發者與營運團隊對於因使用或無法使用本應用程式所衍生之任何直接、間接、附帶或衍生性損害，均不負擔賠償責任。</li>
+        </ul>
+
+        <h2>7. 服務變更與條款修改 (Modifications to Service & Terms)</h2>
+        <p>我們保留隨時修改本條款或暫停、終止本應用程式部分或全部功能之權利。修改後的條款將公佈於此頁面。若您在條款修改後繼續使用本應用程式，即視為您已接受修訂後的條款。</p>
+
+        <h2>8. 聯絡我們 (Contact Us)</h2>
+        <p>若您對本服務條款有任何疑問、建議或問題，請透過以下電子郵件與我們聯繫：</p>
+        <p><strong>聯絡信箱：</strong> teabag.hsu@gmail.com</p>
+
+        <hr style="margin-top: 40px; border: none; border-top: 1px solid var(--border-color);">
+
+        <!-- English Version -->
+        <h1 style="margin-top: 40px;">Terms of Service (English Version)</h1>
+        <p><strong>Last Updated:</strong> November 5, 2026</p>
+
+        <p>Welcome to "Pet Health Tracker" (hereinafter referred to as "the App"). Please read these Terms of Service ("Terms") carefully before downloading, installing, or using the App. By accessing or using the App, you agree to be bound by these Terms.</p>
+
+        <h2>1. Overview of Services</h2>
+        <p>"Pet Health Tracker" is an application designed to assist pet owners in managing their pets' daily health logs, including diet tracking, vaccine and medical logs, weight monitoring, care reminders, and AI-assisted health recommendations.</p>
+
+        <h2>2. Pet Medical Disclaimer</h2>
+        <div class="disclaimer-box">
+            <p><strong>⚠️ IMPORTANT DISCLAIMER: The App does NOT provide professional veterinary advice, diagnosis, or treatment.</strong></p>
+            <ul>
+                <li>All health insights, diet suggestions, reminders, or AI-generated answers provided within the App are for general informational and wellness tracking purposes only.</li>
+                <li>If your pet experiences health abnormalities, severe symptoms, or medical emergencies, please consult a licensed professional veterinarian immediately.</li>
+            </ul>
+        </div>
+
+        <h2>3. User Responsibilities</h2>
+        <ul>
+            <li>You agree to use the App lawfully and not to engage in any unauthorized, malicious, or abusive activity that interferes with system operation.</li>
+            <li>You are responsible for the accuracy of all pet information, diet records, and health data entered into the App.</li>
+        </ul>
+
+        <h2>4. Intellectual Property</h2>
+        <p>All software, designs, trademarks, interfaces, and text associated with the App are owned by the developer and protected under relevant copyright and intellectual property laws.</p>
+
+        <h2>5. Limitation of Liability</h2>
+        <p>The App is provided on an "AS IS" and "AS AVAILABLE" basis. To the maximum extent permitted by law, the developer shall not be liable for any indirect, incidental, or consequential damages resulting from the use or inability to use the App.</p>
+
+        <h2>6. Contact Information</h2>
+        <p>If you have any questions or inquiries regarding these Terms, please contact us at:</p>
+        <p><strong>Email:</strong> teabag.hsu@gmail.com</p>
+
+        <div class="footer">
+            &copy; 2026 寵物健康管家 Pet Health Tracker. All Rights Reserved.
+        </div>
+    </div>
+</body>
+</html>
